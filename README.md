@@ -77,7 +77,7 @@ MetaGPT:https://github.com/geekan/MetaGPT
 
 **3.7 智能体开发作业**
 
-**第四章：多智能体开发**
+**第四章:多智能体开发**
 
 **4.1 Multi Agent概念模块**
 
