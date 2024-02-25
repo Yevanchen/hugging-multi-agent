@@ -15,7 +15,7 @@ MetaGPT:https://github.com/geekan/MetaGPT
 
 ## 目录
 
-**第一章：前期准备**
+**第一章:前期准备**
 
 **1.1 获取MetaGPT**
 
