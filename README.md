@@ -11,7 +11,7 @@
   - 兴趣与动机：适合对AI智能体领域充满热情的学习者，特别是那些希望从代码层面对智能体进行个性化能力开发的人。我们的课程旨在帮助学习者将理论知识转化为实际应用。
 
 项目在线教程:https://deepwisdom.feishu.cn/wiki/MLILw0EdRiyiYRkJLgOcskyAnUh
-MetaGPT:https://github.com/geekan/MetaGPT
+MetaGPT仓库链接:https://github.com/geekan/MetaGPT
 
 ## 目录
 
@@ -125,10 +125,15 @@ MetaGPT:https://github.com/geekan/MetaGPT
 
 ## 关注我们
 
-<div align=center>
-<p>扫描下方二维码关注公众号：Datawhale</p>
-<img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width = "180" height = "180">
+<div align="center">
+    <p>扫描下方二维码关注公众号：Datawhale</p>
+    <img src="https://raw.githubusercontent.com/datawhalechina/pumpkin-book/master/res/qrcode.jpeg" width="180" height="180">
+    <br><br> <!-- 添加间隔 -->
+    <p>扫描下方二维码关注公众号：MetaGPT</p>
+    <img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/haMAMvzPpBxLw2mawRyKpdicX8xvISF0BGNEmmlgd5yuDHbiaFHGcEf3I5YqhAicRfCCYlZ7y6lGxxKU6KUmTV9ag/640?wx_fmt=jpeg&from=appmsg&wxfrom=5&wx_lazy=1&wx_co=1" width="180" height="180">
 </div>
+
+
 
 ## LICENSE
 
